@@ -1,6 +1,6 @@
-# contador_de_pessoas
+# Contador de Pessoas
 
-Contador de Pessoas
+Contador de Pessoas desenvolvido a partir do estudo sobre Flutter
 
 ## Getting Started
 
